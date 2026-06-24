@@ -71,37 +71,6 @@ I care about shipping things that work end-to-end: a model is only as useful as 
 
 ---
 
-### Experience
-
-**AI/ML Intern — Labmentix**
-Worked across end-to-end data science and AI/ML workflows, covering data preparation, model development, and evaluation as part of applied project delivery.
-
-**Co-Inventor — Automated Orthopedic Bed System** *(Provisional Patent, filed through Lovely Professional University)*
-Contributed to the design of a three-layer assistive-care architecture: a pressure-sensing mat for patient monitoring, an STM32 microcontroller for real-time control logic, and a pneumatic bladder array for automated repositioning — benchmarked against existing prior-art patents.
-
----
-
-### Featured Projects
-
-| Project | Description | Stack | Link |
-|---|---|---|---|
-| **AI-Driven Venue Finder Chatbot** | A conversational AI assistant that helps users discover and locate event venues in real time, streamlining venue search and the broader event-planning experience. | Python, HTML, CSS, Vercel | [Live Demo](https://ai-venue-finder-chatbot.vercel.app) |
-| **National Parks & Wildlife Sanctuary Platform** | A mobile-friendly awareness platform mapping India's key national parks and wildlife sanctuaries to promote forest conservation and biodiversity protection. | HTML, CSS, JavaScript, Tailwind CSS | [Live Demo](https://premshivaaa.github.io/projectche110) |
-| **Competitor Analysis Report — Ratan Tata Innovation Hub** | A data-driven competitor intelligence report built with Python and ReportLab, synthesizing real SEMrush and Meta Ad Library data into a structured PDF deliverable. | Python, ReportLab, SEMrush, Meta Ad Library | — |
-| **Personal Portfolio (Minimalist Edition)** | A black-and-white, typography-led portfolio with motion-driven interactions, built on a modern full-stack foundation. | Next.js, TypeScript, Tailwind CSS, Framer Motion, Vercel | — |
-
----
-
-### Achievements & Certifications
-
-- **HackerRank** — 5-Star (Gold) rating in Python
-- **LeetCode** — Rating of 1414, placing competitively among 34,000+ participants in Biweekly Contest 135
-- **Capital Markets Immersion** — Udemy
-- **Responsive Web Design** — freeCodeCamp
-- **Game Development with Unity** — Udemy
-
----
-
 ### GitHub Analytics
 
 <div align="center">
