@@ -1,9 +1,9 @@
 ```
 ┌──────────────────────────────────────────────────────────┐
-│                                                            │
-│   CHANUMURI PREMSHIVA                                     │
-│   AI / ML Engineer  ·  Full-Stack Developer                │
-│                                                            │
+│                                                          │
+│   CHANUMURI PREMSHIVA                                    │
+│   AI / ML Engineer  ·  Full-Stack Developer              │
+│                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
 
