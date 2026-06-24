@@ -75,7 +75,7 @@ I care about shipping things that work end-to-end: a model is only as useful as 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=premshivaaa&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=000000&icon_color=222222" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=premshivaaa&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=000000&icon_color=222222&cache_seconds=1800" alt="GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=premshivaaa&theme=default&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" alt="GitHub Streak" />
 
