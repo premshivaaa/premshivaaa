@@ -1,85 +1,60 @@
-```
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   CHANUMURI PREMSHIVA                                    │
-│   AI / ML Engineer  ·  Full-Stack Developer              │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
+# Chanumuri Premshiva
+
+**Computer Science undergraduate focused on Artificial Intelligence and Machine Learning**
+
+I build end-to-end AI systems, data-driven applications, and full-stack products. My interests span machine learning, deep learning, NLP, intelligent agents, and applied AI.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premshivaaa)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/premshivaaa)
-[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanumuripremshiva@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/premshivaaa)
-[![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/premshivaaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premshivaaa)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/premshivaaa)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanumuripremshiva@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://premshivaaa-portfolio.vercel.app)
 
 </div>
 
----
+## Featured Projects
 
-### About
+| Project | About | Stack |
+|---|---|---|
+| [Invest IQ AI](https://github.com/premshivaaa/Invest_IQ-AI) | AI-assisted investment and financial insights platform | Next.js, TypeScript |
+| [GeoQuest](https://github.com/premshivaaa/GeoQuest) | AI-powered geography quiz and adventure game | React, TypeScript, Gemini API |
+| [AI Culinary Chef](https://github.com/premshivaaa/AI-Culinary-Chef) | AI cooking assistant with culinary guidance and measurement tools | Next.js, TypeScript, Gemini API |
+| [Venue Finder Chatbot](https://github.com/premshivaaa/Venue-FInder-Chatbot) | Conversational assistant for discovering venues | Python, AI APIs |
+| [DeepLearning](https://github.com/premshivaaa/DeepLearning) | Deep learning experiments and model implementations | Python, Jupyter Notebook |
+| [Neural Networks with TensorFlow](https://github.com/premshivaaa/Neural-Networks-with-Tensorflow) | Hands-on neural network exercises from the Google TensorFlow pathway | TensorFlow, Python |
 
-I am a Computer Science undergraduate at Lovely Professional University, building at the intersection of artificial intelligence, machine learning, and full-stack engineering. My work spans end-to-end ML pipelines, NLP systems, and production-grade web applications — with a research thread running through hardware-integrated AI systems.
-
-I care about shipping things that work end-to-end: a model is only as useful as the product it sits inside. That belief shapes how I build — from data pipeline to deployed interface.
-
----
-
-### Currently
-
-- Strengthening foundations in **deep learning, reinforcement learning, and probabilistic graphical models**
-- Building and shipping one end-to-end **ML / NLP project per month**
-- Working through the **Andrew Ng Machine Learning Specialization**
-- Solving **10–15 DSA problems weekly**, with focus on Dynamic Programming, Trees, and Graphs
-
----
-
-### Technical Toolkit
+## Technical Toolkit
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+`C++` `C` `Python` `Java` `JavaScript` `TypeScript` `SQL`
 
 **AI / ML**
 
-![NLP](https://img.shields.io/badge/NLP-000000?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-000000?style=for-the-badge&logo=googlegemini&logoColor=white)
+`Machine Learning` `Deep Learning` `NLP` `TensorFlow` `Jupyter Notebook` `Gemini API`
 
-**Web & Frameworks**
+**Software Development**
 
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
+`React` `Next.js` `Node.js` `FastAPI` `Tailwind CSS` `MongoDB` `MySQL` `Git` `Linux` `Vercel`
 
-**Databases & Tools**
+## DSA & Problem Solving
 
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+- [LeetCode](https://github.com/premshivaaa/LeetCode) — C++ solutions
+- [GeeksforGeeks](https://github.com/premshivaaa/Geeks-for-Geeks) — DSA practice
+- [HackerRank](https://github.com/premshivaaa/HackerRank) — coding challenges
+
+## Currently Learning
+
+- Deep learning and reinforcement learning
+- Probabilistic graphical models
+- End-to-end ML and NLP systems
+- Scalable full-stack application development
 
 ---
 
-### Get In Touch
-
-I'm always open to conversations on AI/ML engineering, research collaborations, and software engineering roles.
-
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premshivaaa)
-[![Email](https://img.shields.io/badge/Reach%20Out-Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanumuripremshiva@gmail.com)
-
 <div align="center">
 
-*Building intelligent systems, one commit at a time.*
+**Open to AI/ML projects, research collaborations, and software engineering opportunities.**
 
 </div>
